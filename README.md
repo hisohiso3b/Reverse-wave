@@ -5,7 +5,7 @@ C言語で.wavファイルを読み込んで逆再生のwavへ変換するサン
 
     $gcc reverse_wave.c
     $./a.out
-    input wave file name ->> sample.c
+    input wave file name ->> sample.wav
     RIFF
     5643294
     WAVE
@@ -23,3 +23,4 @@ C言語で.wavファイルを読み込んで逆再生のwavへ変換するサン
     reversing
     REVERSE COMPLETE! The file name is rev.wav
 
+sample.wavが逆変換され、rev.wavという名前で出力されます。

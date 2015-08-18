@@ -2,7 +2,7 @@
 C言語で.wavファイルを読み込んで逆再生のwavへ変換するサンプルです
 
 # Usage
-''    
+`
 $gcc reverse_wave.c  
 $./a.out  
 input wave file name ->> sample.c  
@@ -22,4 +22,4 @@ data
 reversing...  
 reversing  
 REVERSE COMPLETE! The file name is rev.wav  
-''
+`
